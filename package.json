@@ -1,0 +1,26 @@
+{
+  "name": "project-zero-back-end",
+  "version": "0.0.1",
+  "description": "Project Zero back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-House-Studios/project-zero-BACK-END.git"
+  },
+  "keywords": [
+    "Project",
+    "Zero"
+  ],
+  "author": "Iuri Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-House-Studios/project-zero-BACK-END/issues"
+  },
+  "homepage": "https://github.com/Dev-House-Studios/project-zero-BACK-END#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
