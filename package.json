@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Dev-House-Studios/project-zero-BACK-END#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+
   }
 }
